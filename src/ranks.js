@@ -1,0 +1,1 @@
+export const ranks = {'MODER': '#1b00ff'};
